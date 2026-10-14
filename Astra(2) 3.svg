@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xhtml="http://www.w3.org/1999/xhtml"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="100%" height="100%" viewBox="0 0 100 100"
+     preserveAspectRatio="none">
+  <rect width="100" height="100" fill="#0a1220"/>
+  <foreignObject x="0" y="0" width="100" height="100">
+    <xhtml:iframe
+      xmlns="http://www.w3.org/1999/xhtml"
+      src="https://astra-education.top/"
+      title="Astra website"
+      style="display:block;width:100%;height:100%;border:0;margin:0;padding:0;background:#0a1220">
+    </xhtml:iframe>
+  </foreignObject>
+  <a xlink:href="https://astra-education.top/" target="_blank">
+    <rect x="68" y="2" width="30" height="7" rx="3.5"
+          fill="#102957" stroke="#398cff" stroke-width=".4"/>
+    <text x="83" y="6.5" text-anchor="middle"
+          font-family="Arial, sans-serif" font-size="2.1"
+          fill="#ffffff">Open Astra ↗</text>
+  </a>
+</svg>
