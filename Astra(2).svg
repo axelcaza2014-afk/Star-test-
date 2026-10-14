@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xhtml="http://www.w3.org/1999/xhtml"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="100%" height="100%" viewBox="0 0 1200 800"
+     preserveAspectRatio="none">
+  <rect width="1200" height="800" fill="#0a1220"/>
+
+  <!-- Live website attempt: support varies by SVG viewer. -->
+  <foreignObject x="0" y="0" width="1200" height="800">
+    <xhtml:iframe
+      xmlns="http://www.w3.org/1999/xhtml"
+      src="https://astra-education.top/"
+      title="Astra website"
+      style="display:block;width:100%;height:100%;border:0;background:#0a1220">
+    </xhtml:iframe>
+  </foreignObject>
+
+  <!-- Persistent fallback link; may overlay the embedded page. -->
+  <a xlink:href="https://astra-education.top/" target="_blank">
+    <rect x="865" y="18" width="315" height="54" rx="27"
+          fill="#102957" stroke="#398cff" stroke-width="2"/>
+    <text x="1022" y="52" text-anchor="middle"
+          font-family="Arial, Helvetica, sans-serif" font-size="20"
+          font-weight="600" fill="#ffffff">Open Astra in new tab ↗</text>
+  </a>
+</svg>
